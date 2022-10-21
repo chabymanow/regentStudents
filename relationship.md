@@ -1,7 +1,7 @@
-#Relationship in MySQL Workbench
+Relationship in MySQL Workbench
 ---
 
-##Websites:
+##Websites:##
 
 Ultimate Entity Relationship Diagram Tutorial (ER Diagrams): 
 https://creately.com/blog/diagrams/er-diagrams-tutorial/
@@ -13,6 +13,7 @@ A Simple Database Design with MySQL Workbench Part 1.
 https://alexmetelli.medium.com/a-simple-database-design-with-mysql-workbench-part-1-700d45811ca6
 
 
-##Youtube video:
+##Youtube video:##
+
 How To Create Relationships In MySQL Workbench | Fedorae Education 
 https://www.youtube.com/watch?v=xd9OeA2hYgY
