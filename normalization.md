@@ -1,7 +1,7 @@
-#Some link for normalization
+Some link for normalization
 ---
 
-###Webpages:
+###Webpages###:
 
 The Basics of Database Normalization:
 https://www.lifewire.com/database-normalization-basics-1019735
@@ -13,7 +13,7 @@ Normalization of Database
 https://www.studytonight.com/dbms/database-normalization.php
 
 
-###Youtube videos:
+###Youtube videos###:
 
 Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF
 https://www.youtube.com/watch?v=GFQaEYEc8_8
