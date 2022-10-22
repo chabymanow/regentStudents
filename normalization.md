@@ -12,10 +12,10 @@ https://www.scaler.com/topics/specialization-and-generalization-in-dbms/
 Normalization of Database
 https://www.studytonight.com/dbms/database-normalization.php
 
-Database Normalization Tutorial: 1NF 2NF 3NF BCNF Examples
+:thumbsup: Database Normalization Tutorial: 1NF 2NF 3NF BCNF Examples
 https://www.softwaretestinghelp.com/database-normalization-tutorial/
 
-Database Normalization: A Step-By-Step-Guide With Examples
+:thumbsup: Database Normalization: A Step-By-Step-Guide With Examples
 https://www.databasestar.com/database-normalization/
 
 ## Youtube videos: ##
